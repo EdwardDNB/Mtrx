@@ -23,9 +23,9 @@
   "author": "zhufuge",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^3.3.0"
+    "mocha": "^10.7.3"
   },
   "dependencies": {
-    "chai": "^5.1.1"
+    "chai": "^4.5.0"
   }
 }
